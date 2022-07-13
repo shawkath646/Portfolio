@@ -1,0 +1,3 @@
+.skill-per::before {
+    content: attr(per)!important;
+}
